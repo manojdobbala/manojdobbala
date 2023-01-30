@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="150" height="150" src="resources/profile-pic.png">
+  <img width="150" height="150" src="Manoj_Dobbala.jpeg">
 </p>
 <h1 align="center">Hi there 👋, I'm Manoj Dobbala</h1>
 

@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">Hi there 👋, I'm Manoj Dobbala</h1>
 
-<h3 align="center">A passionate Engineering Manager </h3>
+<h3 align="center">A passionate Engineering Leader </h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
